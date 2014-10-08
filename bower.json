@@ -1,6 +1,6 @@
 {
  "name": "dgram",
- "version": "3.24.10",
+ "version": "3.46.1",
  "main": "dgram.min.js",
  "description": "'dgram' nodejs core module browserify-ied with `--standalone dgram`. Should support all module systems (commonjs, AMD & `window.dgram`) - check browserify docs.",
  "keywords": [
